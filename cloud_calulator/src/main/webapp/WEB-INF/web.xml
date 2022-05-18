@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>cloud_calulator</display-name>
+       <servlet>
+         <servlet-name>map</servlet-name>
+        <servlet-class>cloud_calulator.arithmeticMapper</servlet-class>
+        </servlet>
+           <servlet-mapping>
+        <servlet-name>map</servlet-name>
+         <url-pattern>/math_mapper</url-pattern>
+          </servlet-mapping>
+        <servlet>
+         <servlet-name>addition</servlet-name>
+        <servlet-class>cloud_calulator.OperationAddition</servlet-class>
+        </servlet>
+           <servlet-mapping>
+        <servlet-name>addition</servlet-name>
+         <url-pattern>/addition</url-pattern>
+          </servlet-mapping>
+       <servlet>
+         <servlet-name>subtraction</servlet-name>
+        <servlet-class>cloud_calulator.OperationSubtraction</servlet-class>
+        </servlet>
+           <servlet-mapping>
+        <servlet-name>subtraction</servlet-name>
+         <url-pattern>/subtraction</url-pattern>
+          </servlet-mapping>
+          <servlet>
+         <servlet-name>division</servlet-name>
+        <servlet-class>cloud_calulator.OperationDivision</servlet-class>
+        </servlet>
+           <servlet-mapping>
+        <servlet-name>division</servlet-name>
+         <url-pattern>/division</url-pattern>
+          </servlet-mapping>
+          <servlet>
+         <servlet-name>multiplication</servlet-name>
+        <servlet-class>cloud_calulator.OperationMultiply</servlet-class>
+        </servlet>
+           <servlet-mapping>
+        <servlet-name>multiplication</servlet-name>
+         <url-pattern>/multiplication</url-pattern>
+          </servlet-mapping>
+         <servlet>
+         <servlet-name>result</servlet-name>
+        <jsp-file>/resultshower.jsp</jsp-file>
+            </servlet>
+<!--mapping-->
+       <servlet-mapping>
+         <servlet-name>result</servlet-name>
+           <url-pattern>/result_shower</url-pattern>   
+         </servlet-mapping>
+       
+</web-app>

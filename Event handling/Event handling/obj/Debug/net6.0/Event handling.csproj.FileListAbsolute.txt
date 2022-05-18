@@ -1,0 +1,15 @@
+X:\c# learning\Event handling\Event handling\bin\Debug\net6.0\Event handling.exe
+X:\c# learning\Event handling\Event handling\bin\Debug\net6.0\Event handling.deps.json
+X:\c# learning\Event handling\Event handling\bin\Debug\net6.0\Event handling.runtimeconfig.json
+X:\c# learning\Event handling\Event handling\bin\Debug\net6.0\Event handling.dll
+X:\c# learning\Event handling\Event handling\bin\Debug\net6.0\Event handling.pdb
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.csproj.AssemblyReference.cache
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.GeneratedMSBuildEditorConfig.editorconfig
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.AssemblyInfoInputs.cache
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.AssemblyInfo.cs
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.csproj.CoreCompileInputs.cache
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.dll
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\refint\Event handling.dll
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.pdb
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\Event handling.genruntimeconfig.cache
+X:\c# learning\Event handling\Event handling\obj\Debug\net6.0\ref\Event handling.dll
