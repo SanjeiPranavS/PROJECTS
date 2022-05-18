@@ -1,0 +1,8 @@
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.exe.config
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.csproj.AssemblyReference.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.csproj.SuggestedBindingRedirects.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.csproj.CoreCompileInputs.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.pdb

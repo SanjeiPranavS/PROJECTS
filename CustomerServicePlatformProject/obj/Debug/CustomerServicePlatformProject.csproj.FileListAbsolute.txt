@@ -1,0 +1,32 @@
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.exe.config
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\Customer Service platfom project\bin\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\CustomerServicePlatformProject.csproj.AssemblyReference.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\CustomerServicePlatformProject.csproj.SuggestedBindingRedirects.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\CustomerServicePlatformProject.csproj.CoreCompileInputs.cache
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\Customer Service platfom project\obj\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.exe.config
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.AssemblyReference.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.SuggestedBindingRedirects.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.CoreCompileInputs.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\obj\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\CustomerServicePlatfomProject\obj\Debug\Customer Service platfom project.pdb
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.exe.config
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.exe
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\bin\Debug\Customer Service platfom project.pdb
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.AssemblyReference.cache
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.SuggestedBindingRedirects.cache
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\obj\Debug\CustomerServicePlatformProject.csproj.CoreCompileInputs.cache
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\obj\Debug\Customer Service platfom project.exe
+X:\c# learning\CustomerServicePlatfomProject\CustomerServicePlatfomProject\obj\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\bin\Debug\Customer Service platfom project.exe.config
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\bin\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\bin\Debug\Customer Service platfom project.pdb
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\obj\Debug\CustomerServicePlatformProject.csproj.AssemblyReference.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\obj\Debug\CustomerServicePlatformProject.csproj.SuggestedBindingRedirects.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\obj\Debug\CustomerServicePlatformProject.csproj.CoreCompileInputs.cache
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\obj\Debug\Customer Service platfom project.exe
+E:\VSCODE PROGRAMS\CustomerServicePlatformProject\obj\Debug\Customer Service platfom project.pdb
