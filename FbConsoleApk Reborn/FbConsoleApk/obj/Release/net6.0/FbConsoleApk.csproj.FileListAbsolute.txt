@@ -1,0 +1,17 @@
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\FbConsoleApk.exe
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\FbConsoleApk.deps.json
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\FbConsoleApk.runtimeconfig.json
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\FbConsoleApk.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\FbConsoleApk.pdb
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Release\net6.0\MySqlConnector.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.csproj.AssemblyReference.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.GeneratedMSBuildEditorConfig.editorconfig
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.AssemblyInfoInputs.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.AssemblyInfo.cs
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.csproj.CoreCompileInputs.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.csproj.CopyComplete
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\refint\FbConsoleApk.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.pdb
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\FbConsoleApk.genruntimeconfig.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Release\net6.0\ref\FbConsoleApk.dll

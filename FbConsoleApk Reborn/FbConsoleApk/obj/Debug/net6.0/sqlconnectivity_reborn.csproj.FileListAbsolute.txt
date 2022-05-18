@@ -1,0 +1,17 @@
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\sqlconnectivity_reborn.exe
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\sqlconnectivity_reborn.deps.json
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\sqlconnectivity_reborn.runtimeconfig.json
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\sqlconnectivity_reborn.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\sqlconnectivity_reborn.pdb
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\bin\Debug\net6.0\MySqlConnector.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.csproj.AssemblyReference.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.GeneratedMSBuildEditorConfig.editorconfig
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.AssemblyInfoInputs.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.AssemblyInfo.cs
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.csproj.CoreCompileInputs.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.csproj.CopyComplete
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\refint\sqlconnectivity_reborn.dll
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.pdb
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\sqlconnectivity_reborn.genruntimeconfig.cache
+X:\c# learning\sqlconnectivity_reborn\sqlconnectivity_reborn\obj\Debug\net6.0\ref\sqlconnectivity_reborn.dll
