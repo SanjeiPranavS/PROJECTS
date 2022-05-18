@@ -1,0 +1,15 @@
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\bin\Debug\net6.0\CovarienceContravarience.exe
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\bin\Debug\net6.0\CovarienceContravarience.deps.json
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\bin\Debug\net6.0\CovarienceContravarience.runtimeconfig.json
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\bin\Debug\net6.0\CovarienceContravarience.dll
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\bin\Debug\net6.0\CovarienceContravarience.pdb
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.csproj.AssemblyReference.cache
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.GeneratedMSBuildEditorConfig.editorconfig
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.AssemblyInfoInputs.cache
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.AssemblyInfo.cs
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.csproj.CoreCompileInputs.cache
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.dll
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\refint\CovarienceContravarience.dll
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.pdb
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\CovarienceContravarience.genruntimeconfig.cache
+X:\c# learning\CovarienceContravarience\CovarienceContravarience\obj\Debug\net6.0\ref\CovarienceContravarience.dll

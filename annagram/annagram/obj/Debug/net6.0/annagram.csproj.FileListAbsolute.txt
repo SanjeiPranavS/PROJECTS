@@ -1,0 +1,15 @@
+X:\c# learning\annagram\annagram\bin\Debug\net6.0\annagram.exe
+X:\c# learning\annagram\annagram\bin\Debug\net6.0\annagram.deps.json
+X:\c# learning\annagram\annagram\bin\Debug\net6.0\annagram.runtimeconfig.json
+X:\c# learning\annagram\annagram\bin\Debug\net6.0\annagram.dll
+X:\c# learning\annagram\annagram\bin\Debug\net6.0\annagram.pdb
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.csproj.AssemblyReference.cache
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.GeneratedMSBuildEditorConfig.editorconfig
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.AssemblyInfoInputs.cache
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.AssemblyInfo.cs
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.csproj.CoreCompileInputs.cache
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.dll
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\refint\annagram.dll
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.pdb
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\annagram.genruntimeconfig.cache
+X:\c# learning\annagram\annagram\obj\Debug\net6.0\ref\annagram.dll
